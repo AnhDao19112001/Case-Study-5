@@ -1,0 +1,216 @@
+{
+  "customers": [
+    {
+      "id": 3,
+      "name": "Thong",
+      "dateOfBirth": "2023-04-07",
+      "gender": "1",
+      "identityNumb": "009561234",
+      "phoneNumb": "0901232334",
+      "email": "123@gmail.com",
+      "typeId": "3",
+      "address": "hĂ²a vang",
+      "customer": "customer"
+    },
+    {
+      "id": 5,
+      "name": "Thang",
+      "dateOfBirth": "2023-04-15",
+      "gender": "0",
+      "identityNumb": "687654678",
+      "phoneNumb": "0901232334",
+      "email": "admin@gmail.com",
+      "typeId": 1,
+      "address": "Vùƒng Tà€u",
+      "customer": "customer"
+    },
+    {
+      "id": 6,
+      "name": "Thong Minh",
+      "dateOfBirth": "2023-04-15",
+      "gender": "0",
+      "identityNumb": "687654678",
+      "phoneNumb": "0901232334",
+      "email": "admin@gmail.com",
+      "typeId": 1,
+      "address": "Vùƒng Tà€u",
+      "customer": "customer"
+    },
+    {
+      "id": 7,
+      "name": "Thong",
+      "dateOfBirth": "2023-04-15",
+      "gender": "0",
+      "identityNumb": "687654678",
+      "phoneNumb": "0901232334",
+      "email": "admin@gmail.com",
+      "typeId": 1,
+      "address": "Vùƒng Tà€u",
+      "customer": "customer"
+    }
+  ],
+  "customerTypes": [
+    {
+      "id": 1,
+      "name": "Diamond"
+    },
+    {
+      "id": 2,
+      "name": "Gold"
+    },
+    {
+      "id": 3,
+      "name": "Platinum"
+    }
+  ],
+  "facilities": [
+    {
+      "id": 1,
+      "facilityImg": "img/Vietnam_Danang_Furama_Ocean-Suite-Feature-370x239.jpg",
+      "facilityName": "PHĂ’NG SUITE HÆ¯á»NG BIá»‚N",
+      "facilityArea": "DiĂª̀£n tìch phò€ng: 85.8 m2",
+      "facilityRentalCost": "20000",
+      "facitilyMaxPeople": "5",
+      "facilityRentalType": "Ngà€y",
+      "facilityTypeId": "1",
+      "villaStandard": "vip",
+      "villaOtherAminities": "ThuĂª xe mày / xe Ä‘à£p",
+      "villaPoolArea": "12",
+      "villaNumbOfFloor": "3",
+      "houseStandard": "",
+      "houseOtherAminities": "",
+      "houseNumbOfFloor": "",
+      "roomFreeAminities": "",
+      "facilityAminitiesid": [
+        "1",
+        "2"
+      ],
+      "facility": "facility"
+    },
+    {
+      "id": 2,
+      "facilityImg": "https://furamavietnam.com/wp-content/uploads/2018/03/Vietnam_Danang_Furama_Ocean-Studio-Suite-F-370x239.jpg",
+      "facilityName": "PHĂ’NG STUDIO SUITE HÆ¯á»NG BIá»‚N",
+      "facilityArea": "DiĂª̀£n tìch phò€ng: 40.1 m2",
+      "facilityRentalCost": "20000",
+      "facitilyMaxPeople": "5",
+      "facilityRentalType": "Ngà€y",
+      "facilityTypeId": "2",
+      "villaStandard": "",
+      "villaOtherAminities": "",
+      "villaPoolArea": "",
+      "villaNumbOfFloor": "",
+      "houseStandard": "vip",
+      "houseOtherAminities": "ThuĂª xe mày / xe Ä‘à£p",
+      "houseNumbOfFloor": "3",
+      "roomFreeAminities": "",
+      "facilityAminitiesid": [
+        "2",
+        "3",
+        "4"
+      ],
+      "facility": "facility"
+    },
+    {
+      "id": 3,
+      "facilityImg": "https://furamavietnam.com/wp-content/uploads/2018/03/Furama_Ocean_Deluxe-2-450x291.jpg",
+      "facilityName": "PHĂ’NG DELUX HÆ¯á»NG BIá»‚N",
+      "facilityArea": "DiĂª̀£n tìch phò€ng: 43.7 m2",
+      "facilityRentalCost": "20001",
+      "facitilyMaxPeople": "5",
+      "facilityRentalType": "Ngà€y",
+      "facilityTypeId": "3",
+      "villaStandard": "",
+      "villaOtherAminities": "",
+      "villaPoolArea": "",
+      "villaNumbOfFloor": "",
+      "houseStandard": "",
+      "houseOtherAminities": "",
+      "houseNumbOfFloor": "",
+      "roomFreeAminities": "Bufect Sàng",
+      "facilityAminitiesid": [
+        "1",
+        "3"
+      ],
+      "facility": "facility"
+    }
+  ],
+  "aminities": [
+    {
+      "id": 1,
+      "name": "massage",
+      "unit": "vnd",
+      "price": "12000"
+    },
+    {
+      "id": 2,
+      "name": "karaoke",
+      "unit": "vnd",
+      "price": "12000"
+    },
+    {
+      "id": 3,
+      "name": "thÆ°̀c Äƒn",
+      "unit": "vnd",
+      "price": "12000"
+    },
+    {
+      "id": 4,
+      "name": "nÆ°á»›c uá»‘ng",
+      "unit": "vnd",
+      "price": "12000"
+    },
+    {
+      "id": 5,
+      "name": "thuĂª xe di chuyá»ƒn tham quan resort",
+      "unit": "vnd",
+      "price": "12000"
+    }
+  ],
+  "facilityTypes": [
+    {
+      "id": 1,
+      "name": "Villa"
+    },
+    {
+      "id": 2,
+      "name": "House"
+    },
+    {
+      "id": 3,
+      "name": "Room"
+    }
+  ],
+  "contracts": [
+    {
+      "id": 1,
+      "customerId": "3",
+      "facilitiyId": "1",
+      "contractCode": "HD-1",
+      "startDate": "2021-12-08",
+      "endDate": "2021-13-08",
+      "deposit": "1500000",
+      "totalMoney": "30000000"
+    },
+    {
+      "customerId": 3,
+      "facilitiyId": "2",
+      "contractCode": "1",
+      "startDate": "2322-03-23",
+      "endDate": "2332-03-22",
+      "deposit": "23232322",
+      "totalMoney": "32",
+      "id": 2
+    },
+    {
+      "customerId": "7",
+      "facilitiyId": "2",
+      "contractCode": "32",
+      "startDate": "0003-02-02",
+      "endDate": "0003-02-23",
+      "deposit": "23",
+      "totalMoney": "2323",
+      "id": 3
+    }
+  ]
+}
